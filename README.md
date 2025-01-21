@@ -1,4 +1,4 @@
-# AIPI-XAI-Explainable-AI-II
+# XAI-Explainable-AI-II
 
 This project demonstrates using **Explainable AI (XAI)** techniques to interpret a Random Forest model trained on the **Forest Cover dataset**. The goal is to understand global and local feature contributions to forest cover type predictions using **PDP**, **ICE**, and **ALE** plots.
 
